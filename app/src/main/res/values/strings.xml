@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Room Database</string>
+    <string name="add_word">Add word</string>
+</resources>
